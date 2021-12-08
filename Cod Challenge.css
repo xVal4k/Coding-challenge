@@ -1,0 +1,69 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+header img{
+    height: 75px;
+}
+
+#containerEsterno{
+    width: 60%;
+    height: 600px;
+    margin: auto;
+    background-color: rgba(5, 5, 5, 0.5);
+    border-radius: 10px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: rgba(5, 5, 5, 0);
+}
+
+header{
+    text-align: center;
+    color: chartreuse;
+}
+
+nav {
+   padding: 5px;
+    text-align: center;
+    background-color: rgb(15, 212, 8);
+    
+}
+
+section{
+    margin: 20px;
+
+}
+
+section h3{
+    color: white;
+    display: inline;
+}
+
+section div{
+    color: rgb(212, 209, 209);
+}
+
+.hr1{
+    background-color: orange;
+    height: 18px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.hr2{
+    background-color: rgb(13, 197, 13);
+    height: 18px;
+    width: 400px;
+    border-radius: 5px;
+}
+
+.hr3{
+    background-color: rgb(151, 5, 5);
+    height: 18px;
+    width: 100px;
+    border-radius: 5px;
+}
